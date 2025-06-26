@@ -15,3 +15,12 @@ Basis for Design and Development: Provides a solid foundation for designing and 
 Cost and Time Estimation: Facilitates accurate estimation of project cost, resources, and time.
 Quality Assurance: Ensures that the final product meets the specified requirements, leading to higher customer satisfaction.
 
+Key Activities in Requirement Analysis.
+-- Requirement Gathering: This is the initial stage where information about the system's needs and constraints is collected from various stakeholders (users, customers, business owners, etc.). 
+-- Requirement Elicitation --- Brainstorming: Conducting brainstorming sessions to generate ideas and gather requirements.
+-- Requirement Documentation: Once requirements are gathered, they need to be formally recorded in a clear, concise, and unambiguous manner. This typically involves creating documents like a Software Requirements Specification (SRS), Business Requirements Document (BRD), use cases, user stories, or other models. 
+-- Requirement Analysis and Modeling: In this phase, the documented requirements are thoroughly examined for completeness, consistency, clarity, and feasibility. Any ambiguities, conflicts, or missing information are identified and resolved.
+-- Requirement Validation: This critical activity ensures that the defined requirements accurately reflect the real needs and expectations of the stakeholders and that they are achievable. 
+
+
+
