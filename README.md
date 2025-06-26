@@ -22,5 +22,24 @@ Key Activities in Requirement Analysis.
 -- Requirement Analysis and Modeling: In this phase, the documented requirements are thoroughly examined for completeness, consistency, clarity, and feasibility. Any ambiguities, conflicts, or missing information are identified and resolved.
 -- Requirement Validation: This critical activity ensures that the defined requirements accurately reflect the real needs and expectations of the stakeholders and that they are achievable. 
 
+Types of Requirements.
+    Functional Requirement: Functional requirements define what the system should do. They describe the specific behaviors or functions of the system, how it should react to particular inputs, and how it should behave in particular situations. They are typically expressed as actions the system performs.
+    Examples---- User Registration and Login: The system shall allow new users to register an account by providing an email address, password, and personal details.
+
+   Non-functional requirements :(NFRs) define how well the system performs a function. They specify criteria that can be used to judge the operation of a system, rather than specific behaviors.
+   examples--- Performance:The system shall load search results for available slots within 2 seconds for up to 100 concurrent users.
+
+
+
+
+
+
+
+
+
+
+
+    
+
 
 
