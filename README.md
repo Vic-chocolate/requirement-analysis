@@ -67,6 +67,19 @@ Below is an image or visual of the Booking system usimg Draw.io
 
 ![alx-booking-uc](https://github.com/user-attachments/assets/0892f4aa-3a9d-4b14-aa1d-604c6d715162)
 
+Acceptance Criteria.
+Acceptance Criteria are a vital part of Requirement Analysis because they define clear, testable conditions that a software product or feature must meet to be accepted by the client or stakeholders. They help ensure that everyone — including developers, testers, and clients — has the same understanding of the feature requirements.
+Example of acceptance criteria: User Story:
+As a user, I want to checkout my booking so that I can confirm and pay for my reserved slot.
+
+1. The user must be able to review booking details before checkout.
+2. The system should display a summary of the total cost, including taxes and fees.
+3. The checkout page must offer payment options (e.g., credit card, PayPal).
+4. The system must validate payment information before submission.
+5. After successful payment, the user must receive a booking confirmation message and email.
+6. The system must update the booking status to “confirmed” in the database.
+7. If payment fails, the user should see an appropriate error message and retry option.
+
 
 
 
