@@ -62,10 +62,10 @@ Each component will be designed for reusability and consistency across the appli
 Use Case Diagrams. Use Case Diagrams are a powerful tool in software engineering for understanding and representing the functionality of a system from the user's perspective. They are part of the Unified Modeling Language (UML), a standardized general-purpose modeling language in the field of software engineering. Some Benefits of Use Case diagrams are: Clear Communication: They provide a high-level, easily understandable overview of system functionality, facilitating communication between stakeholders (developers, clients, users, project managers) who may not have a technical background. Requirements Elicitation and Validation: They help in identifying, clarifying, and validating system requirements by focusing on what the system does for its users. This can uncover missing requirements or discrepancies early in the development cycle.
 
 Below is an image or visual of the Booking system usimg Draw.io
-![Use Case Diagram](./alx-booking-uc.png)
 
+![alx-booking-uc](alx-booking-uc.png)
 
-![alx-booking-uc](https://github.com/user-attachments/assets/0892f4aa-3a9d-4b14-aa1d-604c6d715162)
+![image alt](alx-booking-uc.png)
 
 Acceptance Criteria.
 Acceptance Criteria are a vital part of Requirement Analysis because they define clear, testable conditions that a software product or feature must meet to be accepted by the client or stakeholders. They help ensure that everyone — including developers, testers, and clients — has the same understanding of the feature requirements.
